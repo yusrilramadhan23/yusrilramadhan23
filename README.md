@@ -1,4 +1,4 @@
-### Hi 👋 I'm Yusril
+### Hii! 👋 I'm Yusril
 
 - 🔭 I’m currently an undergraduate student on **Telkom University**.
 - 🌱 I’m currently learning **Frontend Developer**.
